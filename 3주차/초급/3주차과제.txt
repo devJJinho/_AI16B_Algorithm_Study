@@ -1,0 +1,4 @@
+초급 문제 : 
+	Python 배우기 (1~50) 문제집에서 위에서부터 5문제 풀어주세요.
+	문제집 링크 : https://www.acmicpc.net/workbook/view/459 
+		     (Hello World, A+B, AXB, A-B, A/B)
